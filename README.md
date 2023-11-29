@@ -1,2 +1,2 @@
 # ikuoma
-for testing purposes
+for testing purposes - some coding stuff for my school
